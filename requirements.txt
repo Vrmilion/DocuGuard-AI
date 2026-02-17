@@ -1,0 +1,8 @@
+streamlit
+xgboost
+shap
+pandas
+matplotlib
+oletools
+pyzipper
+numpy
